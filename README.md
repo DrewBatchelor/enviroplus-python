@@ -1,4 +1,4 @@
-# This is the Drew hack v0.1 10/01/22 of the Pimoroni Enviro+ Code.
+# Drew hacked version (10/01/22) of the Pimoroni Enviro+ Code.
 It removes the screen and the temperature compensate, and moves to sensor.community from Luftdaten.
 The only file I have changed is the "Luftdaten.py" in the Root which replaces the original verison in the "examples" directory.
 

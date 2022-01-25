@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# This is the Drew hack v0.1 10/01/22 of the Pimoroni Enviro+ Code.
-# It ditches the screen and the temperature compensate.
+# This is the Drew hacked version (10/01/22) of the Pimoroni Enviro+ Code.
+# It ditches the screen and the temperature compensate, and moves to sensor.comunity from Luftdaten.
 
 import requests
 import time

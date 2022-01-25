@@ -1,6 +1,7 @@
 # Drew hacked version (10/01/22) of the Pimoroni Enviro+ Code.
 It removes the screen and the temperature compensate, and moves to sensor.community from Luftdaten.
 The only file I have changed is the "Luftdaten.py" in the Root which replaces the original verison in the "examples" directory.
+Everything below and everything else is from the Pimoroni original.
 
 # Enviro+
 Designed for environmental monitoring, Enviro+ lets you measure air quality (pollutant gases and particulates), temperature, pressure, humidity, light, and noise level. Learn more - https://shop.pimoroni.com/products/enviro-plus
